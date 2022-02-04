@@ -1,3 +1,3 @@
 # Karpov_loyalty
 
-Изучаем лоялность покупателей к брендам (3_companies.csv)
+Research customer loyalty to brands (3_companies.csv)
