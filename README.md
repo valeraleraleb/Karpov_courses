@@ -1,3 +1,3 @@
-# Karpov_taxi_Peru
+# Karpov_courses
 
-Анализ данных такси с рейтингами водителей, пассажиров, координатами, и парой других деталей (3_taxi_peru.csv)
+Courses for analysis data
