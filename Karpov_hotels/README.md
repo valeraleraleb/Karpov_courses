@@ -1,3 +1,3 @@
 # Karpov_hotels
 
-анализ данных о бронировании отелей (2_bookings.csv)
+analysis of hotel booking data (2_bookings.csv)
