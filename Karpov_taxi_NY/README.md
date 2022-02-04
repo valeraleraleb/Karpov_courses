@@ -1,3 +1,3 @@
 # Karpov_taxi
 
-работа с данными о поездках на такси в Нью-Йорке (2_taxi_nyc), где также имеется информация о погодных условиях и выходных днях.  
+work with data on taxi trips in New York (2_taxi_nyc), which also has information about weather conditions and holidays. 
